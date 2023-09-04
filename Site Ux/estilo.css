@@ -1,0 +1,74 @@
+
+body, h1, h2, p, ul, li {
+    margin: 0;
+    padding: 0;
+}
+
+/* Estilos para a barra de navegação */
+header {
+    background-color: #000000;
+    padding: 20px 0;
+}
+
+nav {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.menu {
+    list-style-type: none;
+}
+
+.menu li {
+    display: inline;
+    margin-left: 20px;
+}
+
+.menu li a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.menu li a:hover {
+    text-decoration: underline;
+}
+.Mature{
+    background-color: rgb(248, 248, 248);
+    padding: 50px;
+    margin-top: 20%;
+    margin-left: 0%;
+    margin-right: 0%;
+    
+    
+}
+
+.footer-text{
+    margin-left: 20%;
+}
+h1{
+    margin-left: 40%;
+}
+p{
+    margin-left: 40%;
+}
+.imglogo{
+    max-width: 50px;
+    border-radius: 100%;
+}
+.imagem1{
+    max-width: 500px;
+    margin-left: 30%;
+
+}
